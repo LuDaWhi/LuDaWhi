@@ -25,7 +25,7 @@ I’m transitioning from NHS management into data analytics, building on nine ye
 ## 📁 My Projects
 
 - **Analysing Customer Purchasing Behaviour for a Global Supermarket**  
-  Exploratory data analysis project using Python, pandas, and visualisation techniques to identify purchasing trends and customer segments.
+  Exploratory data analysis project using Excel, Tableau, and SQL to clean and prepare data, then analyse and visualise insights into customer demographics, bestselling products, and advertising effectiveness.
 
 ---
 
