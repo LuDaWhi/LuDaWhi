@@ -29,7 +29,7 @@ Exploratory data analysis project using Excel, Tableau, and SQL to clean, prepar
 
 ---
 
-## 📫 Get in Touch
+## 📫 Connect with Me
 
 <a href="https://linkedin.com/in/lukedavidwhitmore">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="28" style="margin-right: 12px;"/>
