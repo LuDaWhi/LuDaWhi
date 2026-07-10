@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I’m currently completing the Data Analytics Career Accelerator Programme at the London School of Economics and Political Science (LSE), where I’m developing skills in Python, SQL, and data‑visualisation techniques.
+I’m currently completing the Data Analytics Career Accelerator Programme at the London School of Economics and Political Science (LSE), where I’m learning new skills such as programming languages and data-visualisation techniques.
 
 I’m transitioning from NHS management into data analytics, building on nine years of experience turning operational data into meaningful insights. My goal is to move into a formal data analyst role where I can make a positive impact, particularly within the Charity/Non‑profit sector or the Energy & Natural Resources industry.
 
