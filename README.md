@@ -6,23 +6,23 @@ My goal is to move into a formal data analyst role where I can make a meaningful
 
 ## My Tech Stack
 
-Microsoft Excel
-Tableau
+- **Excel**
+- **Tableau**
 
 ## Skills I'm currently developing
 
-PostgreSQL
-Anaconda
-Jupyter
-Python
-Pandas
-NumPy
+- PostgreSQL
+- Anaconda
+- Jupyter
+- Python
+- Pandas
+- NumPy
 
 ## My Projects
 
-Analysing Customer Purchasing Behaviour for a Global Supermarket
+- Analysing Customer Purchasing Behaviour for a Global Supermarket
 
 ## Get in Touch
 
-LinkedIn: linkedin.com/in/lukedavidwhitmore
-Email: ldwhitmore1993@gmail.com
+- LinkedIn: linkedin.com/in/lukedavidwhitmore
+- Email: ldwhitmore1993@gmail.com
