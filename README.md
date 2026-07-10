@@ -24,8 +24,8 @@ I’m transitioning from NHS management into data analytics, building on nine ye
 
 ## 📁 My Projects
 
-- **Analysing Customer Purchasing Behaviour for a Global Supermarket**  
-  Exploratory data analysis project using Excel, Tableau, and SQL to clean and prepare data, then analyse and visualise insights into customer demographics, bestselling products, and advertising effectiveness.
+- **[Analysing Customer Purchasing Behaviour for a Global Supermarket](https://github.com/lukedavidwhitmore/Supermarket-Customer-Analysis)**  
+Exploratory data analysis project using Excel, Tableau, and SQL to clean and prepare data, then analyse and visualise insights into customer demographics, bestselling products, and advertising effectiveness.
 
 ---
 
