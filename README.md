@@ -1,16 +1,20 @@
-## About me
+## About Me
 
-<!--
-**LuDaWhi/LuDaWhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently completing the Data Analytics Career Accelerator Programme at the London School of Economics and Political Science (LSE), where I’m learning programming languages and data‑visualisation techniques.
 
-Here are some ideas to get you started:
+My goal is to move into a formal data analyst role where I can make a meaningful impact on society, e.g., within the Charity/Non‑profit sector or the Energy & Natural Resources industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tech Stack
+
+Microsoft Excel
+PostgreSQL
+Tableau
+Anaconda
+Jupyter
+Python
+Pandas
+NumPy
+
+## My Projects
+
+Analysing Customer Purchasing Behaviour for a Global Supermarket
