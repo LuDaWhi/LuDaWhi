@@ -27,7 +27,7 @@ I’m looking to transition into a formal data analyst role, following a decade 
 ## 📁 My Projects
 
 - **[Analysing Customer Purchasing Behaviour for a Global Supermarket](https://github.com/LuDaWhi/Supermarket-Customer-Analysis)**  
-Exploratory data analysis project using Excel, Tableau, and SQL to clean, prepare, analyse, and visualise insights into customer demographics, bestselling products, and advertising effectiveness.
+Exploratory data analysis project using Excel, SQL, and Tableau to clean, prepare, analyse, and visualise insights into customer demographics, bestselling products, and advertising effectiveness.
 
 ---
 
