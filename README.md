@@ -24,7 +24,7 @@ I’m looking to transition into a formal data analyst role, following a decade 
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-1F77B4?style=for-the-badge&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![imblearn](https://img.shields.io/badge/imbalanced--learn-005C99?style=for-the-badge&logoColor=white)
+![imblearn](https://img.shields.io/badge/imblearn-005C99?style=for-the-badge&logoColor=white)
 
 ---
 
