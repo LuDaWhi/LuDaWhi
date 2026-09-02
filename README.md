@@ -33,7 +33,7 @@ I’m looking to transition into a formal data analyst role, following a decade 
 - **[Analysing Customer Purchasing Behaviour for a Global Supermarket](https://github.com/LuDaWhi/Supermarket-Customer-Analysis)**  
 Exploratory data analysis project using Excel, SQL, and Tableau to clean, prepare, analyse, and visualise insights into customer demographics, bestselling products, and advertising effectiveness.
 
-- **[Analysing NHS Primary Care Appointment Capacity and Utilisation](https://github.com/LuDaWhi/NHS-Appointment_Analysis)**  
+- **[Analysing NHS Primary Care Appointment Capacity and Utilisation]((https://github.com/LuDaWhi/NHS-Appointment-Analysis))**  
 Exploratory data analysis project using Python (pandas, NumPy, Matplotlib, Seaborn) to clean, prepare, analyse, and visualise insights into national and regional appointment demand, capacity utilisation, and “did not attend” (DNA) rates across NHS primary care.
 
 ---
