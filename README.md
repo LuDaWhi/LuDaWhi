@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I’m currently completing the LSE Data Analytics Career Accelerator, developing skills in SQL, Python, and Tableau.
+I’m currently completing the LSE Data Analytics Career Accelerator, developing skills in SQL, Python, R, and Tableau.
 
 I’m looking to transition into a formal data analyst role, following a decade of working in NHS management. I’m particularly interested in the Charity, Energy, and Healthtech sectors.
 
@@ -21,6 +21,7 @@ I’m looking to transition into a formal data analyst role, following a decade 
 ## 🌱 Skills I'm Currently Developing
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC2?style=for-the-badge&logo=r&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-1F77B4?style=for-the-badge&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
