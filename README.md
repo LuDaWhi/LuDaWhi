@@ -21,10 +21,12 @@ I’m looking to transition into a formal data analyst role, following a decade 
 ## 🌱 Skills I'm Currently Developing
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-1F77B4?style=for-the-badge&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-1F77B4?style=for-the-badge&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![imblearn](https://img.shields.io/badge/imblearn-005C99?style=for-the-badge&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3973A6?style=for-the-badge&logoColor=white)
+![vaderSentiment](https://img.shields.io/badge/vaderSentiment-4B8BBE?style=for-the-badge&logoColor=white)
 
 ---
 
