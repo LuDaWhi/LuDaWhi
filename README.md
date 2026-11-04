@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I’m currently completing the LSE Data Analytics Career Accelerator, developing skills in SQL, Python, R, and Tableau.
+I’m currently completing the LSE Data Analytics Career Accelerator, enhancing my skills in SQL, Python, R, and Tableau.
 
 I’m looking to transition into a formal data analyst role, following a decade of working in NHS management. I’m particularly interested in the Charity, Energy, and Healthtech sectors.
 
@@ -9,22 +9,30 @@ I’m looking to transition into a formal data analyst role, following a decade 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC2?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Statistical Modelling](https://img.shields.io/badge/Statistical%20Modelling-1F77B4?style=for-the-badge&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logoColor=white)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🌱 Skills I'm Currently Developing
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC2?style=for-the-badge&logo=r&logoColor=white)
-![Statistical Modelling](https://img.shields.io/badge/Statistical%20Modelling-1F77B4?style=for-the-badge&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logoColor=white)
+- Advanced SQL
+- Advanced Statistical Modelling
+- Advanced Machine Learning
+- Advanced NLP
 
 ---
 
@@ -35,6 +43,9 @@ Exploratory data analysis project using Excel, SQL, and Tableau to clean, prepar
 
 - **[Analysing NHS Primary Care Appointment Capacity and Utilisation](https://github.com/LuDaWhi/NHS-Appointment-Analysis)**  
 Exploratory data analysis project using Python (pandas, NumPy, Matplotlib, Seaborn) to clean, prepare, analyse, and visualise insights into national and regional appointment demand, capacity utilisation, and “did not attend” (DNA) rates across NHS primary care.
+
+- **[Analysing Customer Loyalty, Segmentation, and Sentiment for a Games Retailer](https://github.com/LuDaWhi/Games-Retailer-Customer-Analysis)**  
+Exploratory and predictive data analysis project using Python (pandas, NumPy, scikit-learn, NLTK, TextBlob, Matplotlib, Seaborn) and R to identify the factors that drive customer loyalty, segment customers for targeted marketing, evaluate customer sentiment through natural language processing, and assess whether loyalty point accumulation can be predicted accurately.
 
 ---
 
