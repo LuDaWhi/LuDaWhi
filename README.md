@@ -2,7 +2,7 @@
 
 I’m currently completing the LSE Data Analytics Career Accelerator, enhancing my skills in SQL, Python, R, and Tableau.
 
-I’m looking to transition into a formal data analyst role, following a decade of working in NHS management. I’m particularly interested in the Charity, Energy, and Healthtech sectors.
+I’m looking to transition into a formal data analyst role, following a decade of working in NHS management. I’m particularly interested in Charity, Energy, and Healthtech organisations.
 
 ## 🧰 My Tech Stack
 
