@@ -48,7 +48,7 @@ Exploratory data analysis project using Python (pandas, NumPy, Matplotlib, Seabo
 Exploratory and predictive data analysis project using Python (pandas, NumPy, scikit-learn, NLTK, TextBlob, Matplotlib, Seaborn) and R to identify the factors that drive customer loyalty, segment customers for targeted marketing, evaluate customer sentiment through natural language processing, and assess whether loyalty point accumulation can be predicted accurately.
 
 - **[Analysing Customer Orders at an Electronics Store](https://github.com/LuDaWhi/Big-SQL-Energy-Intro-Project)**  
-Exploratory data analysis project using SQL to select and sort the store's order data to determine which of their customers have made purchases and which product types have been sold to them.
+Exploratory data analysis project using SQL to select and sort an electronics store's orders data to determine which of their customers have made purchases and which product types have been sold to them.
 
 ---
 
