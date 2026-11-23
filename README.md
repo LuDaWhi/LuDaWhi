@@ -15,7 +15,7 @@ Exploratory data analysis project using Python (pandas, NumPy, Matplotlib, Seabo
 - **[Analysing Customer Loyalty, Segmentation, and Sentiment for a Games Retailer](https://github.com/LuDaWhi/Games-Retailer-Customer-Analysis)**  
 Exploratory and predictive data analysis project using Python (pandas, NumPy, scikit-learn, NLTK, TextBlob, Matplotlib, Seaborn) and R to identify the factors that drive customer loyalty, segment customers for targeted marketing, evaluate customer sentiment through natural language processing, and assess whether loyalty point accumulation can be predicted accurately.
 
-- **[Explore My Full Portfolio](https://github.com/LuDaWhi?tab=repositories)**
+- **[Explore My Full Portfolio](https://github.com/LuDaWhi?tab=repositories)**  
 Projects, training exercises, and learning activities.
 
 ---
