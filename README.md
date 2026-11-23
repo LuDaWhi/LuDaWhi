@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I’m currently completing the LSE Data Analytics Career Accelerator, enhancing my skills in SQL, Python, R, and Tableau.
+I’m currently completing the LSE Data Analytics Career Accelerator, enhancing my skills in Excel, Tableau, SQL, Python, R.
 
 I’m looking to transition into a formal data analyst role, following a decade of working in NHS management. I’m particularly interested in Charity, Energy, and Healthtech organisations.
 
@@ -15,7 +15,8 @@ Exploratory data analysis project using Python (pandas, NumPy, Matplotlib, Seabo
 - **[Analysing Customer Loyalty, Segmentation, and Sentiment for a Games Retailer](https://github.com/LuDaWhi/Games-Retailer-Customer-Analysis)**  
 Exploratory and predictive data analysis project using Python (pandas, NumPy, scikit-learn, NLTK, TextBlob, Matplotlib, Seaborn) and R to identify the factors that drive customer loyalty, segment customers for targeted marketing, evaluate customer sentiment through natural language processing, and assess whether loyalty point accumulation can be predicted accurately.
 
-- **[View all my projects here](https://github.com/LuDaWhi?tab=repositories)**
+- **[Explore My Full Portfolio](https://github.com/LuDaWhi?tab=repositories)**
+Projects, training exercises, and learning activities.
 
 ---
 
