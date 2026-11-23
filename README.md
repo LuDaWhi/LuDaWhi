@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I’m currently completing the LSE Data Analytics Career Accelerator, enhancing my skills in Excel, Tableau, SQL, Python, R.
+I’m currently completing the London School of Economics and Political Science (LSE) Data Analytics Career Accelerator, enhancing my skills in Excel, Tableau, SQL, Python, R.
 
 I’m looking to transition into a formal data analyst role, following a decade of working in NHS management. I’m particularly interested in Charity, Energy, and Healthtech organisations.
 
