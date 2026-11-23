@@ -18,6 +18,8 @@ Exploratory and predictive data analysis project using Python (pandas, NumPy, sc
 - **[Analysing Customer Orders at an Electronics Store](https://github.com/LuDaWhi/Big-SQL-Energy-Intro-Project)**  
 Exploratory data analysis project using SQL to select and sort an electronics store's orders data to determine which of their customers have made purchases and which product types have been sold to them.
 
+- **[View all my project repositories here[(https://github.com/LuDaWhi?tab=repositories)**
+
 ---
 
 ## 🧰 My Tech Stack
