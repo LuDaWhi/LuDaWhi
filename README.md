@@ -6,14 +6,14 @@ I’m looking to transition into a formal data analyst role, following a decade 
 
 ## 📁 My Projects
 
-- **[Analysing Customer Purchasing Behaviour for a Global Supermarket](https://github.com/LuDaWhi/Supermarket-Customer-Analysis)**  
-Exploratory data analysis project using Excel, SQL, and Tableau to clean, prepare, analyse, and visualise insights into customer demographics, bestselling products, and advertising effectiveness.
+- **[Analysing Customer Loyalty, Segmentation, and Sentiment for a Games Retailer](https://github.com/LuDaWhi/Games-Retailer-Customer-Analysis)**  
+Exploratory and predictive data analysis project using Python (pandas, NumPy, scikit-learn, NLTK, TextBlob, Matplotlib, Seaborn) and R to identify the factors that drive customer loyalty, segment customers for targeted marketing, evaluate customer sentiment through natural language processing, and assess whether loyalty point accumulation can be predicted accurately.
 
 - **[Analysing NHS Primary Care Appointment Capacity and Utilisation](https://github.com/LuDaWhi/NHS-Appointment-Analysis)**  
 Exploratory data analysis project using Python (pandas, NumPy, Matplotlib, Seaborn) to clean, prepare, analyse, and visualise insights into national and regional appointment demand, capacity utilisation, and “did not attend” (DNA) rates across NHS primary care.
 
-- **[Analysing Customer Loyalty, Segmentation, and Sentiment for a Games Retailer](https://github.com/LuDaWhi/Games-Retailer-Customer-Analysis)**  
-Exploratory and predictive data analysis project using Python (pandas, NumPy, scikit-learn, NLTK, TextBlob, Matplotlib, Seaborn) and R to identify the factors that drive customer loyalty, segment customers for targeted marketing, evaluate customer sentiment through natural language processing, and assess whether loyalty point accumulation can be predicted accurately.
+- **[Analysing Customer Purchasing Behaviour for a Global Supermarket](https://github.com/LuDaWhi/Supermarket-Customer-Analysis)**  
+Exploratory data analysis project using Excel, SQL, and Tableau to clean, prepare, analyse, and visualise insights into customer demographics, bestselling products, and advertising effectiveness.
 
 - **[Explore My Full Portfolio](https://github.com/LuDaWhi?tab=repositories)**  
 Projects, training exercises, and learning activities.
